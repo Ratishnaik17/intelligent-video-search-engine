@@ -7,3 +7,4 @@ results/
 __pycache__/
 *.npy
 *.index
+*.pt
