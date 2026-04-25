@@ -1,0 +1,9 @@
+venv/
+data/frames/
+data/videos/
+embeddings/
+index/
+results/
+__pycache__/
+*.npy
+*.index
