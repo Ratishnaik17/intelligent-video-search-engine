@@ -1,0 +1,53 @@
+[
+    {
+        "query": "A white car",
+        "timestamp": "00:00:31",
+        "frame": "data/frames\\traffic_light_cctv_frame_00033_31.jpg",
+        "score": 0.8708,
+        "objects": [
+            "bus",
+            "car"
+        ]
+    },
+    {
+        "query": "A white car",
+        "timestamp": "00:00:30",
+        "frame": "data/frames\\traffic_light_cctv_frame_00032_30.jpg",
+        "score": 0.871,
+        "objects": [
+            "bus",
+            "car"
+        ]
+    },
+    {
+        "query": "A white car",
+        "timestamp": "00:05:05",
+        "frame": "data/frames\\traffic_light_cctv_frame_00316_305.jpg",
+        "score": 0.8767,
+        "objects": [
+            "bus",
+            "car"
+        ]
+    },
+    {
+        "query": "A white car",
+        "timestamp": "00:03:20",
+        "frame": "data/frames\\traffic_light_cctv_frame_00207_200.jpg",
+        "score": 0.8785,
+        "objects": [
+            "bus",
+            "car",
+            "person"
+        ]
+    },
+    {
+        "query": "A white car",
+        "timestamp": "00:00:54",
+        "frame": "data/frames\\traffic_light_cctv_frame_00056_54.jpg",
+        "score": 0.8803,
+        "objects": [
+            "bus",
+            "car"
+        ]
+    }
+]

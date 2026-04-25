@@ -1,0 +1,6 @@
+query,timestamp,frame,score,objects
+A white car,00:00:31,data/frames\traffic_light_cctv_frame_00033_31.jpg,0.8708,"bus, car"
+A white car,00:00:30,data/frames\traffic_light_cctv_frame_00032_30.jpg,0.871,"bus, car"
+A white car,00:05:05,data/frames\traffic_light_cctv_frame_00316_305.jpg,0.8767,"bus, car"
+A white car,00:03:20,data/frames\traffic_light_cctv_frame_00207_200.jpg,0.8785,"bus, car, person"
+A white car,00:00:54,data/frames\traffic_light_cctv_frame_00056_54.jpg,0.8803,"bus, car"
